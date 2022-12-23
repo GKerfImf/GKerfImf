@@ -12,8 +12,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=ProjectEuler" />
 </a>
 <a href="https://github.com/GKerfImf/homework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=PDE-to-Canonical-Form" />
+</a>
+<a href="https://github.com/GKerfImf/homework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=homework" />
 </a>
+
+
 
 
 
