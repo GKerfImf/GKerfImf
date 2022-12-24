@@ -5,7 +5,7 @@
 <a href="https://github.com/GKerfImf/DePuzzle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=DePuzzle" />
 </a>
-<a href="https://github.com/GKerfImf/DePuzzle">
+<a href="https://github.com/GKerfImf/rustgrad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=rustgrad" />
 </a>
 
@@ -20,9 +20,6 @@
 <a href="https://github.com/GKerfImf/homework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=homework" />
 </a>
-
-
-
 
 
 <!--
