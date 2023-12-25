@@ -11,12 +11,11 @@
 <a href="https://github.com/GKerfImf/Coq-O">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=Coq-O" />
 </a>
-
-## Old Things (Archive) 
-
 <a href="https://github.com/GKerfImf/Satisfiability-Theory-in-Coq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=Satisfiability-Theory-in-Coq" />
 </a>
+
+## Old Things (Archive) 
 <a href="https://github.com/GKerfImf/ProjectEuler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=ProjectEuler" />
 </a>
