@@ -2,6 +2,9 @@
 
 ## My Side Projects
 
+<a href="https://github.com/GKerfImf/Pylos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=Pylos" />
+</a>
 <a href="https://github.com/GKerfImf/DePuzzle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GKerfImf&repo=DePuzzle" />
 </a>
